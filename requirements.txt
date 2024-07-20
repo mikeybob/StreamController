@@ -2,7 +2,7 @@ annotated-types==0.6.0
 async-lru==2.0.4
 cairocffi==1.6.1
 CairoSVG==2.7.1
-certifi==2024.2.2
+certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
@@ -79,7 +79,7 @@ PyYAML==6.0.1
 rapidfuzz==3.6.2
 regex==2023.12.25
 req2flatpak==0.2.0
-requests==2.31.0
+requests==2.32.2
 requirements-parser==0.5.0
 rich==13.7.1
 rpyc==6.0.0
@@ -92,11 +92,11 @@ streamcontroller-plugin-tools==2.0.0
 streamdeck==0.9.5
 textual==0.52.1
 tinycss2==1.2.1
-tqdm==4.66.2
+tqdm==4.66.3
 types-setuptools==69.2.0.20240317
 typing_extensions==4.10.0
 uc-micro-py==1.0.3
-urllib3==2.2.1
+urllib3==2.2.2
 usb-monitor==1.17
 virtualenv==20.25.1
 webencodings==0.5.1
